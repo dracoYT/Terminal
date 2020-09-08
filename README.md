@@ -1,2 +1,2 @@
-# reimagined-fortnight
+# Terminal
 A custom terminal
